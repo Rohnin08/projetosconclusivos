@@ -32,8 +32,8 @@
    - Desenvolver um sistema digital que permita o controle dos jogos do NAPNE, garantindo uma gestão eficiente e organizada do acervo disponível no mesmo.
 
 ##### 5.2. **Objetivos Secundários**
-   - Permitir o cadastro de jogos de tabuleiro com detalhes como nome, número de peças, e condição.
-   - Permitir o cadastro de alunos para que possam registrar seus empréstimos e devoluções.
+   - Permitir o cadastro de jogos com detalhes como nome, unidades, condição, status etc.
+   - Permitir o cadastro de alunos/professores para que possam registrar seus empréstimos e devoluções.
    - Automatizar o processo de empréstimo, com controle de prazos de devolução e status de disponibilidade dos jogos.
    - Gerar relatórios que facilitem a visualização de jogos disponíveis, jogos emprestados e seu histórico.
    - Incluir um sistema de alertas para jogos que estão com prazos de devolução vencidos.
