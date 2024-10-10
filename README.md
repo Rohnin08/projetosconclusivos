@@ -7,7 +7,8 @@
    - **Nome do Projeto**: Sistema de Gerenciamento de Jogos de Tabuleiro do NAPNE
    - **Responsáveis**: Igor Bruno Arruda Soares Araújo
    - **Setor Envolvido**: NAPNE (Núcleo de Atendimento às Pessoas com Necessidades Especiais)
-   - **Contato Principal**: Graça e Jaylha
+   - **Contato Principal**: Graça, Ana Karla, Jaylha
+   - **Orientador: Dr. Hugo Wendell Maia
 
 ---
 
